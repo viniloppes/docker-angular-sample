@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker Angular Sample Project
 
 This project demonstrates how to effectively containerize a modern Angular application using Docker for both **development** and **production** workflows.
@@ -50,3 +51,7 @@ Your support helps me continue creating valuable content for the community. Than
 ### License
 
 This project is licensed under the MIT License.
+=======
+# docker-angular-sample
+Usage example using docker in angular
+>>>>>>> e09ffc2084867506c16ab70381db3689221cbe66
